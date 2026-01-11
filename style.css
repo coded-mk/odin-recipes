@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.home-heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    color: #084208;
+    background-color: bisque;
+}
+
+ul > li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+
+ul {
+    margin: 10px;
+}
